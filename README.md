@@ -23,7 +23,7 @@ This portfolio demonstrates **industry-oriented implementations** rather than pu
 - Cryptography: AES, MACs, Key Exchange, PQC (Kyber, Dilithium – concept & implementation)
 - Networking: TCP/IP, Secure Channels, VPN concepts
 - Systems: Linux, basic Windows security
-- Firewalls & Network Security: FortiGate (NSE3, NSE4 in progress)
+- Firewalls & Network Security: FortiGate (NSE3, NSE4)
 - Programming: Python, basic scripting
 - Security Architecture & Threat Modeling
 
