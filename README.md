@@ -1,4 +1,4 @@
-# Applied Cryptography and Information Security | Post-Quantum & IoT Security | Remote Consultant
+# PhD in Cryptography and Information Security | Post-Quantum Cryptography Engineer | Cybersecurity - FCP (Secure Networking) 
 
 ## Profile
 PhD in Cryptography and Information Security with a strong focus on applied cryptography, post-quantum security, and secure communications.  
