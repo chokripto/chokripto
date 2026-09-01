@@ -63,7 +63,7 @@ My expertise spans operational cybersecurity, security architecture, and cryptog
 | **Programming & Engineering** | Python, C/C++, MATLAB, Java, Docker, Docker Compose, FastAPI, Git, GitHub Actions, numerical simulation, testing, and technical documentation |
 | **Security Research** | Threat modelling, protocol analysis, privacy-utility modelling, chaotic dynamical systems, pseudorandom generation, multimedia encryption, NIST statistical testing, and DIEHARDER |
 
-> **Terminology note:** ML-KEM and ML-DSA are the current standardized names. Kyber and Dilithium are referenced only when describing earlier specifications, implementations, or library interfaces.
+> **Terminology note:** ML-KEM and ML-DSA are the current NIST standards derived from CRYSTALS-Kyber and CRYSTALS-Dilithium. The earlier names are retained only when referring to legacy specifications, implementations, or library interfaces.
 
 ---
 
@@ -97,7 +97,7 @@ A containerized client-server secure channel combining classical X25519 key agre
 
 A secure-channel design for communication between a simulated IoT device and a server. The project addresses long-lived-device risks, authenticated encryption, nonce management, replay protection, and the “store now, decrypt later” threat model.
 
-### Research Implementations & Academic Archive
+### Historical Research Implementations
 
 | Project | Year | Focus |
 |---|---:|---|
@@ -106,6 +106,23 @@ A secure-channel design for communication between a simulated IoT device and a s
 | [Voice Encryption Based on a Chaotic System](https://github.com/chokripto/2018-A-new-method-for-voice-encryption-based-on-chaotic-system) | 2018 | MATLAB research implementation for chaos-based voice encryption |
 | [GSM Voice Communication Encryption](https://github.com/chokripto/encrypting-voice-communication-of-the-GSM--10-july-2012) | 2012 | Historical research work on voice-communication protection in GSM environments |
 | [Message Authentication Code Application](https://github.com/chokripto/Message-Authentication-Code---10-june-2010) | 2010 | Historical Java implementation of HMAC and CBC-MAC variants; included for academic context, not modern production use |
+
+---
+
+## Research & Publications
+
+### Selected Technical Publications
+
+- **Image Encryption Scheme Based on New Model of Gingerbreadman Map** — *Advances in Intelligent Systems and Digital Applications*, 2025. First author. [DOI: 10.1007/978-3-031-95326-2_39](https://doi.org/10.1007/978-3-031-95326-2_39)
+- **Modelling the Relationship between Privacy and Loss of Data Utility When Analysing the Data** — *Journal of Theoretical and Applied Information Technology*, 2022. First author. [Publication](https://www.jatit.org/volumes/Vol100No22/11Vol100No22.pdf)
+- **A Pseudo-Random Number Generator Using Double Pendulum** — *Applied Mathematics & Information Sciences*, 2020. First author. [DOI: 10.18576/amis/140604](https://doi.org/10.18576/amis/140604)
+- **A Pseudo Random Bit Generator Based on a Modified Chaotic Map** — *International Journal of Network Security*, 2019. First author. [DOI: 10.6633/IJNS.201905.21(3).06](https://doi.org/10.6633/IJNS.201905.21(3).06)
+
+### Selected Scientific Communications
+
+- **Towards a Post-Quantum Cryptography for the Internet of Things** — 1st International Conference on Mathematics and Applications (ICMA 2025), Casablanca. First author.
+- **Image Encryption Scheme Based on New Model of Gingerbreadman Map** — International Conference on Intelligent Systems and Digital Applications (ISDA 2025), FST Settat. Speaker and first author.
+- **A New Method for Voice Encryption Based on Chaotic System** — MOCASIM 2018, Marrakech. Speaker and first author.
 
 ---
 
