@@ -51,12 +51,19 @@ My expertise spans operational cybersecurity, security architecture, and cryptog
 ---
 
 ## Technical Skills
-- Cryptography: AES, MACs, Key Exchange, PQC (Kyber, Dilithium – concept & implementation)
-- Networking: TCP/IP, Secure Channels, VPN concepts
-- Systems: Linux, basic Windows security
-- Firewalls & Network Security: FortiGate and FortiManager 
-- Programming: Python, basic scripting
-- Security Architecture & Threat Modeling
+
+| Domain | Technologies & Practices |
+|---|---|
+| **Applied Cryptography** | AES-GCM, RSA, ECDSA, Ed25519, X25519, SHA-2, MAC/HMAC, HKDF, authenticated encryption, digital signatures, key management, and cryptographic protocol design |
+| **Post-Quantum Cryptography** | ML-KEM, ML-DSA, hybrid classical/PQC key establishment, hybrid signatures, liboqs, quantum-safe migration concepts, and cryptographic benchmarking |
+| **PKI & Digital Certificates** | X.509, root and intermediate CAs, certificate signing requests, certificate-chain validation, CRLs, revocation modelling, classical PKI, and experimental hybrid PKI |
+| **Network Security** | FortiGate, FortiManager, NGFW, IDS/IPS, IPsec and SSL VPNs, high availability, network access control, ZTNA, Nmap, and Wireshark |
+| **Security Operations** | Splunk, Wazuh, Microsoft Defender for Endpoint, FortiEDR, Symantec security tools, alert triage, incident investigation, operational procedures, and phishing-awareness exercises |
+| **Networking & Systems** | TCP/IP, OSI, switching, routing, trunking, DHCP, DNS, IPAM, Linux, Windows, and macOS |
+| **Programming & Engineering** | Python, C/C++, MATLAB, Java, Docker, Docker Compose, FastAPI, Git, GitHub Actions, numerical simulation, testing, and technical documentation |
+| **Security Research** | Threat modelling, protocol analysis, privacy-utility modelling, chaotic dynamical systems, pseudorandom generation, multimedia encryption, NIST statistical testing, and DIEHARDER |
+
+> **Terminology note:** ML-KEM and ML-DSA are the current standardized names. Kyber and Dilithium are referenced only when describing earlier specifications, implementations, or library interfaces.
 
 ---
 
