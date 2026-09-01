@@ -67,22 +67,45 @@ My expertise spans operational cybersecurity, security architecture, and cryptog
 
 ---
 
-## Projects Overview
+## Featured Projects
 
-### 1. Post-Quantum Secure Communication for IoT
-Design and implementation of a secure IoT communication channel using post-quantum cryptography for key exchange, ensuring confidentiality, integrity, and future resistance against quantum attacks.
+### [Hybrid PKI Lab — Classical and Post-Quantum PKI in Python](https://github.com/chokripto/Hybrid-PKI-Lab-Classical-and-Post-Quantum-PKI-in-Python)
 
-### 2. Secure Voice Communication System
-Applied cryptographic design for secure voice transmission, addressing real-time constraints, key management, and data integrity.
+**Status:** Stable educational and experimental laboratory — not production-ready  
+**Technologies:** Python, FastAPI, Docker, X.509, RSA, ECDSA, Ed25519, ML-KEM, ML-DSA, liboqs
 
-### 3. Image Encryption for Constrained Environments
-Lightweight image encryption approach suitable for IoT and embedded systems, with security and performance evaluation.
+A laboratory for building, testing, and comparing classical, post-quantum, and hybrid PKI architectures. It includes certificate lifecycle operations, hybrid validation policies, downgrade-attack demonstrations, benchmarks, API endpoints, automated tests, and dedicated Docker modes for real PQC experiments.
 
-### 4. Cryptographic Key Management Demonstration
-End-to-end key lifecycle management: generation, storage, rotation, and revocation, aligned with modern security architectures.
+### [Post-Quantum Cryptography-Secured ZTNA](https://github.com/chokripto/ZTNA-PQC-SECURE-CHANNEL)
 
-### 5. MAC-Based Authentication Protocol
-Design and analysis of an authentication protocol based on Message Authentication Codes, bridging formal cryptographic design and deployable systems.
+**Status:** Security architecture prototype  
+**Technologies:** Python, liboqs, PQC KEM, AES-GCM, HKDF, Docker, policy-based access control
+
+A Zero Trust Network Access prototype combining identity verification, device validation, policy enforcement, and post-quantum key establishment. The project explores how quantum-safe mechanisms can be introduced into identity-aware access architectures while preserving least-privilege and continuous-verification principles.
+
+### [Hybrid Post-Quantum Secure Channel](https://github.com/chokripto/hybrid-pqc-secure-channel)
+
+**Status:** Experimental reference implementation  
+**Technologies:** Python, X25519, Kyber512, HKDF, AES-GCM, Docker
+
+A containerized client-server secure channel combining classical X25519 key agreement with a Kyber-based post-quantum KEM. Both shared secrets are combined through HKDF and used with AES-GCM, illustrating a hybrid migration approach for protecting application data during the transition to standardized PQC.
+
+### [Post-Quantum Secure Communication for IoT](https://github.com/chokripto/pqc-iot-secure-communication)
+
+**Status:** Work in progress — design and reference implementation  
+**Technologies:** Python, PQC KEM, HKDF, AES-GCM, TCP
+
+A secure-channel design for communication between a simulated IoT device and a server. The project addresses long-lived-device risks, authenticated encryption, nonce management, replay protection, and the “store now, decrypt later” threat model.
+
+### Research Implementations & Academic Archive
+
+| Project | Year | Focus |
+|---|---:|---|
+| [Pseudo-Random Number Generator Using a Double Pendulum](https://github.com/chokripto/2020-A-Pseudo-Random-Number-Generator-Using-Double-Pendulum) | 2020 | C implementation of a chaos-based PRNG evaluated with NIST and DIEHARDER statistical test suites |
+| [Pseudo-Random Bit Generator Based on a Modified Chaotic Map](https://github.com/chokripto/2019-A-Pseudo-Random-Bit-Generator-based-on-Chaotic-Map) | 2019 | Modified Gingerbreadman-map PRBG with dynamical and statistical analysis |
+| [Voice Encryption Based on a Chaotic System](https://github.com/chokripto/2018-A-new-method-for-voice-encryption-based-on-chaotic-system) | 2018 | MATLAB research implementation for chaos-based voice encryption |
+| [GSM Voice Communication Encryption](https://github.com/chokripto/encrypting-voice-communication-of-the-GSM--10-july-2012) | 2012 | Historical research work on voice-communication protection in GSM environments |
+| [Message Authentication Code Application](https://github.com/chokripto/Message-Authentication-Code---10-june-2010) | 2010 | Historical Java implementation of HMAC and CBC-MAC variants; included for academic context, not modern production use |
 
 ---
 
