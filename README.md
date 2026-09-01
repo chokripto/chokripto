@@ -1,10 +1,27 @@
-# PhD in Cryptography and Information Security | Post-Quantum Cryptography Engineer | Cybersecurity - FCP (Secure Networking) 
+<div align="center">
 
-## Profile
-PhD in Cryptography and Information Security with a strong focus on applied cryptography, post-quantum security, and secure communications.  
-My work bridges theoretical cryptography and real-world security systems, with particular interest in IoT security, cryptographic protocols, and future-proof encryption solutions.
+<img src="./assets/chokri-nouar-brand-logo.png" alt="Dr. Chokri NOUAR — Cybersecurity, Network Security, and Post-Quantum Cryptography" width="420">
 
-This portfolio demonstrates **industry-oriented implementations** rather than purely academic research.
+# Dr. Chokri NOUAR
+
+### Cybersecurity & Cryptography Engineer  
+### PhD in Cryptography and Information Security
+
+**Engineering Trust in the Digital and Quantum Era.**
+
+[LinkedIn](https://www.linkedin.com/in/chokri-nouar)
+
+</div>
+
+---
+
+I am a cybersecurity engineer and cryptography researcher working across **network security, Zero Trust, applied cryptography, and post-quantum cryptography**.
+
+My work combines academic research in cryptography with operational experience in SOC environments, secure network architecture, and cybersecurity engineering. I focus on translating security concepts and cryptographic research into practical architectures, reproducible laboratories, and clearly documented technical implementations.
+
+With a background spanning applied mathematics, cryptographic research, cybersecurity operations, and secure network engineering, I approach digital trust as both a scientific and an engineering challenge. My interests include hybrid cryptographic systems, quantum-safe migration, identity-aware access, secure communications, and the protection of long-lived digital infrastructures.
+
+This GitHub portfolio documents my work toward helping organizations address today’s cyber threats while preparing for tomorrow’s quantum-security challenges.
 
 ---
 
@@ -63,6 +80,3 @@ Open to **remote roles** and **consulting opportunities** in:
 - Security Research (Applied)
 - IoT & Post-Quantum Security
 - Security Architecture & Advisory
-repository
-- ⚡ Fun fact: ...
--->
