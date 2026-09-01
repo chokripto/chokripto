@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/chokri-nouar-brand-logo.png" alt="Dr. Chokri NOUAR — Cybersecurity, Network Security, and Post-Quantum Cryptography" width="420">
+<img src="./assets/chokri-nouar-brand-logo.jpg" alt="Dr. Chokri NOUAR — Cybersecurity, Network Security, and Post-Quantum Cryptography" width="420">
 
 # Dr. Chokri NOUAR
 
