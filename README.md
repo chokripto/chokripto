@@ -109,12 +109,20 @@ A secure-channel design for communication between a simulated IoT device and a s
 
 ---
 
-## Research-to-Industry Focus
-Unlike academic repositories, this portfolio emphasizes:
-- Practical threat models
-- Security architecture decisions
-- Trade-offs between security, performance, and scalability
-- Clear documentation suitable for engineering and security teams
+## Research-to-Engineering Approach
+
+I treat cryptographic research as the starting point of an engineering process, not as evidence of production readiness by itself. My objective is to make security concepts understandable, testable, and reproducible before considering operational deployment.
+
+Projects in this portfolio are developed around the following principles:
+
+- **Explicit scope and maturity** — distinguishing research work, educational laboratories, prototypes, reference implementations, and production systems.
+- **Threat-driven design** — documenting security goals, attacker capabilities, trust assumptions, and out-of-scope risks.
+- **Reproducible environments** — providing structured code, dependency specifications, Docker workflows, tests, and practical execution guidance.
+- **Measurable validation** — using functional tests, negative tests, benchmarks, statistical evaluation, and clearly stated limitations.
+- **Migration and interoperability** — examining how post-quantum mechanisms can coexist with established cryptographic and network-security architectures.
+- **Operational awareness** — considering identity, access control, key lifecycle management, logging, incident response, performance, and maintainability.
+
+This approach connects my academic background in cryptography and applied mathematics with practical experience in network security, SOC operations, and secure infrastructure. It also ensures that experimental results are presented responsibly, without overstating their security guarantees or deployment maturity.
 
 ---
 
