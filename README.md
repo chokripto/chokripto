@@ -126,9 +126,29 @@ This approach connects my academic background in cryptography and applied mathem
 
 ---
 
-## Availability
-Open to **remote roles** and **consulting opportunities** in:
-- Cryptography Engineering
-- Security Research (Applied)
-- IoT & Post-Quantum Security
-- Security Architecture & Advisory
+## Collaboration & Professional Interests
+
+I am open to selected professional, research, consulting, and speaking opportunities aligned with:
+
+- Cybersecurity and secure network architecture
+- Zero Trust and identity-aware access
+- Applied cryptography and cryptographic engineering
+- Post-quantum migration and hybrid cryptographic systems
+- PKI, digital certificates, and digital-trust infrastructure
+- IoT security and secure communications
+- Joint research, technical publications, and educational initiatives
+
+Based in **Rabat, Morocco**, I welcome remote and international collaboration where technical accuracy, responsible security engineering, and long-term value are priorities.
+
+For professional enquiries or research collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/chokri-nouar).
+
+---
+
+<div align="center">
+
+**Dr. Chokri NOUAR**  
+Cybersecurity · Network Security · Post-Quantum Cryptography
+
+*Engineering Trust in the Digital and Quantum Era.*
+
+</div>
