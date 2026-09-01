@@ -146,7 +146,11 @@ For professional enquiries or research collaboration, connect with me on [Linked
 
 <div align="center">
 
-**Dr. Chokri NOUAR**  
+<p>
+  <img src="./assets/cn-monogram-footer.jpg" alt="CN monogram" width="56" align="middle">
+  &nbsp;&nbsp;<strong>Dr. Chokri NOUAR</strong>
+</p>
+
 Cybersecurity · Network Security · Post-Quantum Cryptography
 
 *Engineering Trust in the Digital and Quantum Era.*
