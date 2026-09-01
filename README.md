@@ -24,13 +24,29 @@ This GitHub portfolio documents my work toward helping organizations address tod
 ---
 
 ## Core Expertise
-- Applied Cryptography
-- Post-Quantum Cryptography (PQC)
-- IoT Security
-- Secure Voice, Image, and Multimedia Encryption
-- Cryptographic Protocol Design
-- Key Management & Authentication
-- Network and Systems Security
+
+My expertise spans operational cybersecurity, security architecture, and cryptographic research, with a particular focus on building resilient systems for both current and emerging threats.
+
+- **Network Security & Secure Infrastructure**  
+  Secure network architecture, FortiGate technologies, network access control, IPsec and SSL VPNs, IDS/IPS, traffic analysis, and infrastructure hardening.
+
+- **Zero Trust & Identity-Aware Access**  
+  ZTNA architecture, continuous verification, device validation, policy-based authorization, least-privilege access, and quantum-safe Zero Trust prototypes.
+
+- **Applied & Post-Quantum Cryptography**  
+  Cryptographic protocol design, authenticated encryption, key derivation, message authentication, hybrid classical/PQC schemes, ML-KEM, and ML-DSA experimentation.
+
+- **PKI, Certificates & Digital Trust**  
+  Classical and hybrid PKI laboratories, X.509 certificates, digital signatures, certificate validation, revocation mechanisms, and cryptographic migration strategies.
+
+- **Security Operations & Threat Analysis**  
+  SOC monitoring, security-alert analysis, incident investigation, operational procedures, phishing-awareness campaigns, and defensive security practices.
+
+- **Secure Communications & IoT Security**  
+  Secure client-server channels, IoT communication protocols, key lifecycle management, replay protection, and encryption of voice, images, and multimedia.
+
+- **Cryptographic Research & Applied Mathematics**  
+  Chaotic dynamical systems, pseudorandom generation, privacy-utility modelling, multimedia encryption, statistical security testing, and reproducible research implementations.
 
 ---
 
